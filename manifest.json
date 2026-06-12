@@ -1,0 +1,9 @@
+{
+    "name": "Pan_the_Ogre_Modpack",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/SeriousPan/PanTheOgre",
+    "description": "Pan, an Ogre from Dragon Quest X, with unique weapons, masks & Zora form!",
+    "dependencies": [
+        "YAZMT-Player_Model_Manager-0.6.1"
+    ]
+}
