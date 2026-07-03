@@ -1,0 +1,49 @@
+#ifndef GPANMASKSTONEDL_H
+#define GPANMASKSTONEDL_H
+
+#include "ultra64.h"
+#include "global.h"
+
+extern u64 gPanMaskStoneDL_Stone_Mask_texture3_i8[];
+extern u64 gPanMaskStoneDL_Stone_Mask_texture5_ci8[];
+extern u64 gPanMaskStoneDL_Stone_Mask_texture5_pal_rgba16[];
+extern u64 gPanMaskStoneDL_Stone_Mask_texture6_ci8[];
+extern u64 gPanMaskStoneDL_Stone_Mask_texture6_pal_rgba16[];
+extern u64 gPanMaskStoneDL_Stone_Mask_texture7_ci8[];
+extern u64 gPanMaskStoneDL_Stone_Mask_texture7_pal_rgba16[];
+extern u64 gPanMaskStoneDL_metal_slime_eye_ia8[];
+extern u64 gPanMaskStoneDL_metal_slime_mouth_ci8[];
+extern u64 gPanMaskStoneDL_metal_slime_mouth_pal_rgba16[];
+extern u64 gPanMaskStoneDL_metal_slime_texgen_i8[];
+extern Vtx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_vtx_0[13];
+extern Gfx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_vtx_1[20];
+extern Gfx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_tri_1[];
+extern Vtx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_vtx_2[8];
+extern Gfx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_tri_2[];
+extern Vtx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_vtx_3[6];
+extern Gfx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_tri_3[];
+extern Vtx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_vtx_4[18];
+extern Gfx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_tri_4[];
+extern Vtx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_vtx_5[10];
+extern Gfx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_tri_5[];
+extern Vtx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_vtx_6[198];
+extern Gfx gPanMaskStoneDL_gPanMaskStoneDL_mesh_layer_Opaque_tri_6[];
+extern Gfx mat_gPanMaskStoneDL_Stone_Mask_mat_003_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanMaskStoneDL_Stone_Mask_mat_003_f3d_layerOpaque[];
+extern Gfx mat_gPanMaskStoneDL_Stone_Mask_mat_005_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanMaskStoneDL_Stone_Mask_mat_005_f3d_layerOpaque[];
+extern Gfx mat_gPanMaskStoneDL_Stone_Mask_mat_006_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanMaskStoneDL_Stone_Mask_mat_006_f3d_layerOpaque[];
+extern Gfx mat_gPanMaskStoneDL_Stone_Mask_mat_007_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanMaskStoneDL_Stone_Mask_mat_007_f3d_layerOpaque[];
+extern Gfx mat_gPanMaskStoneDL_Stone_Mask_mat_009_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanMaskStoneDL_Stone_Mask_mat_009_f3d_layerOpaque[];
+extern Gfx mat_gPanMaskStoneDL_Stone_Mask_mat_011_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanMaskStoneDL_Stone_Mask_mat_011_f3d_layerOpaque[];
+extern Gfx mat_gPanMaskStoneDL_f3dlite_material_090_layerOpaque[];
+extern Gfx mat_revert_gPanMaskStoneDL_f3dlite_material_090_layerOpaque[];
+extern Gfx gPanMaskStoneDL[];
+
+#endif

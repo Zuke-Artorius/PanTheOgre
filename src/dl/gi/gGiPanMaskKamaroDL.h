@@ -1,0 +1,88 @@
+#ifndef GGIPANMASKKAMARODL_H
+#define GGIPANMASKKAMARODL_H
+
+#include "ultra64.h"
+#include "global.h"
+
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture0_ci4[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture0_pal_rgba16[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture1_ci8[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture1_pal_rgba16[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture2_ci8[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture2_pal_rgba16[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture3_ci8[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture3_pal_rgba16[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture4_ci8[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture4_pal_rgba16[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture5_ci8[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture5_pal_rgba16[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture6_ci8[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture6_pal_rgba16[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture7_ci8[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture7_pal_rgba16[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture8_ci8[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture8_pal_rgba16[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture9_ci8[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture9_pal_rgba16[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture10_ci8[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture10_pal_rgba16[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture11_ci8[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture11_pal_rgba16[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture12_ci8[];
+extern u64 gGiPanMaskKamaroDL_Kamaro_Mask_texture12_pal_rgba16[];
+extern Vtx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_vtx_0[18];
+extern Gfx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_vtx_1[102];
+extern Gfx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_tri_1[];
+extern Vtx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_vtx_2[30];
+extern Gfx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_tri_2[];
+extern Vtx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_vtx_3[90];
+extern Gfx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_tri_3[];
+extern Vtx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_vtx_4[46];
+extern Gfx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_tri_4[];
+extern Vtx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_vtx_5[54];
+extern Gfx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_tri_5[];
+extern Vtx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_vtx_6[46];
+extern Gfx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_tri_6[];
+extern Vtx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_vtx_7[20];
+extern Gfx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_tri_7[];
+extern Vtx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_vtx_8[90];
+extern Gfx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_tri_8[];
+extern Vtx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_vtx_9[25];
+extern Gfx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_tri_9[];
+extern Vtx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_vtx_10[14];
+extern Gfx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_tri_10[];
+extern Vtx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_vtx_11[10];
+extern Gfx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_tri_11[];
+extern Vtx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_vtx_12[4];
+extern Gfx gGiPanMaskKamaroDL_gGiPanMaskKamaroDL_mesh_layer_Opaque_tri_12[];
+extern Gfx mat_gGiPanMaskKamaroDL_Kamaro_Mask_mat_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskKamaroDL_Kamaro_Mask_mat_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskKamaroDL_Kamaro_Mask_mat_001_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskKamaroDL_Kamaro_Mask_mat_001_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskKamaroDL_Kamaro_Mask_mat_002_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskKamaroDL_Kamaro_Mask_mat_002_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskKamaroDL_Kamaro_Mask_mat_003_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskKamaroDL_Kamaro_Mask_mat_003_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskKamaroDL_Kamaro_Mask_mat_004_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskKamaroDL_Kamaro_Mask_mat_004_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskKamaroDL_Kamaro_Mask_mat_005_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskKamaroDL_Kamaro_Mask_mat_005_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskKamaroDL_Kamaro_Mask_mat_006_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskKamaroDL_Kamaro_Mask_mat_006_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskKamaroDL_Kamaro_Mask_mat_007_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskKamaroDL_Kamaro_Mask_mat_007_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskKamaroDL_Kamaro_Mask_mat_008_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskKamaroDL_Kamaro_Mask_mat_008_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskKamaroDL_Kamaro_Mask_mat_009_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskKamaroDL_Kamaro_Mask_mat_009_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskKamaroDL_Kamaro_Mask_mat_010_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskKamaroDL_Kamaro_Mask_mat_010_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskKamaroDL_Kamaro_Mask_mat_011_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskKamaroDL_Kamaro_Mask_mat_011_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskKamaroDL_Kamaro_Mask_mat_012_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskKamaroDL_Kamaro_Mask_mat_012_f3d_layerOpaque[];
+extern Gfx gGiPanMaskKamaroDL[];
+
+#endif

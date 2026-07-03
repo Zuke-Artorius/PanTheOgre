@@ -1,0 +1,52 @@
+#ifndef GPANSWORD2HILTDL_H
+#define GPANSWORD2HILTDL_H
+
+#include "ultra64.h"
+#include "global.h"
+
+extern u64 gPanSword2HiltDL_Razor_Sword_texture1_ci8[];
+extern u64 gPanSword2HiltDL_Razor_Sword_texture1_pal_rgba16[];
+extern u64 gPanSword2HiltDL_Razor_Sword_texture2_ci8[];
+extern u64 gPanSword2HiltDL_Razor_Sword_texture2_pal_rgba16[];
+extern u64 gPanSword2HiltDL_Razor_Sword_texture3_ci8[];
+extern u64 gPanSword2HiltDL_Razor_Sword_texture3_pal_rgba16[];
+extern u64 gPanSword2HiltDL_Razor_Sword_texture4_ci8[];
+extern u64 gPanSword2HiltDL_Razor_Sword_texture4_pal_rgba16[];
+extern u64 gPanSword2HiltDL_Razor_Sword_texture5_ci8[];
+extern u64 gPanSword2HiltDL_Razor_Sword_texture5_pal_rgba16[];
+extern u64 gPanSword2HiltDL_Razor_Sword_texture6_ci8[];
+extern u64 gPanSword2HiltDL_Razor_Sword_texture6_pal_rgba16[];
+extern u64 gPanSword2HiltDL_Razor_Sword_texture10_ci8[];
+extern u64 gPanSword2HiltDL_Razor_Sword_texture10_pal_rgba16[];
+extern Vtx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_vtx_0[20];
+extern Gfx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_vtx_1[9];
+extern Gfx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_tri_1[];
+extern Vtx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_vtx_2[12];
+extern Gfx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_tri_2[];
+extern Vtx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_vtx_3[12];
+extern Gfx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_tri_3[];
+extern Vtx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_vtx_4[9];
+extern Gfx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_tri_4[];
+extern Vtx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_vtx_5[9];
+extern Gfx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_tri_5[];
+extern Vtx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_vtx_6[5];
+extern Gfx gPanSword2HiltDL_gPanSword2HiltDL_mesh_layer_Opaque_tri_6[];
+extern Gfx mat_gPanSword2HiltDL_Razor_Sword_mat_001_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSword2HiltDL_Razor_Sword_mat_001_f3d_layerOpaque[];
+extern Gfx mat_gPanSword2HiltDL_Razor_Sword_mat_002_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSword2HiltDL_Razor_Sword_mat_002_f3d_layerOpaque[];
+extern Gfx mat_gPanSword2HiltDL_Razor_Sword_mat_003_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSword2HiltDL_Razor_Sword_mat_003_f3d_layerOpaque[];
+extern Gfx mat_gPanSword2HiltDL_Razor_Sword_mat_004_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSword2HiltDL_Razor_Sword_mat_004_f3d_layerOpaque[];
+extern Gfx mat_gPanSword2HiltDL_Razor_Sword_mat_005_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSword2HiltDL_Razor_Sword_mat_005_f3d_layerOpaque[];
+extern Gfx mat_gPanSword2HiltDL_Razor_Sword_mat_006_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSword2HiltDL_Razor_Sword_mat_006_f3d_layerOpaque[];
+extern Gfx mat_gPanSword2HiltDL_Razor_Sword_mat_010_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSword2HiltDL_Razor_Sword_mat_010_f3d_layerOpaque[];
+extern Gfx gPanSword2HiltDL[];
+
+#endif

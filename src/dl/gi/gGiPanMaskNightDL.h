@@ -1,0 +1,76 @@
+#ifndef GGIPANMASKNIGHTDL_H
+#define GGIPANMASKNIGHTDL_H
+
+#include "ultra64.h"
+#include "global.h"
+
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture0_ci8[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture0_pal_rgba16[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture1_ci8[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture1_pal_rgba16[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture2_ci8[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture2_pal_rgba16[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture3_ci8[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture3_pal_rgba16[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture4_ci8[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture4_pal_rgba16[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture5_ci8[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture5_pal_rgba16[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture6_ci8[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture6_pal_rgba16[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture7_ci8[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture7_pal_rgba16[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture8_ci8[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture8_pal_rgba16[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture9_ci8[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture9_pal_rgba16[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture10_ci8[];
+extern u64 gGiPanMaskNightDL_All_Night_Mask_texture10_pal_rgba16[];
+extern Vtx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_vtx_0[44];
+extern Gfx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_vtx_1[30];
+extern Gfx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_tri_1[];
+extern Vtx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_vtx_2[24];
+extern Gfx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_tri_2[];
+extern Vtx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_vtx_3[38];
+extern Gfx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_tri_3[];
+extern Vtx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_vtx_4[38];
+extern Gfx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_tri_4[];
+extern Vtx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_vtx_5[14];
+extern Gfx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_tri_5[];
+extern Vtx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_vtx_6[10];
+extern Gfx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_tri_6[];
+extern Vtx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_vtx_7[12];
+extern Gfx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_tri_7[];
+extern Vtx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_vtx_8[8];
+extern Gfx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_tri_8[];
+extern Vtx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_vtx_9[24];
+extern Gfx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_tri_9[];
+extern Vtx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_vtx_10[10];
+extern Gfx gGiPanMaskNightDL_gGiPanMaskNightDL_mesh_layer_Opaque_tri_10[];
+extern Gfx mat_gGiPanMaskNightDL_All_Night_Mask_mat_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskNightDL_All_Night_Mask_mat_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskNightDL_All_Night_Mask_mat_001_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskNightDL_All_Night_Mask_mat_001_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskNightDL_All_Night_Mask_mat_002_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskNightDL_All_Night_Mask_mat_002_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskNightDL_All_Night_Mask_mat_003_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskNightDL_All_Night_Mask_mat_003_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskNightDL_All_Night_Mask_mat_004_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskNightDL_All_Night_Mask_mat_004_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskNightDL_All_Night_Mask_mat_005_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskNightDL_All_Night_Mask_mat_005_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskNightDL_All_Night_Mask_mat_006_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskNightDL_All_Night_Mask_mat_006_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskNightDL_All_Night_Mask_mat_007_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskNightDL_All_Night_Mask_mat_007_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskNightDL_All_Night_Mask_mat_008_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskNightDL_All_Night_Mask_mat_008_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskNightDL_All_Night_Mask_mat_009_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskNightDL_All_Night_Mask_mat_009_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskNightDL_All_Night_Mask_mat_010_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskNightDL_All_Night_Mask_mat_010_f3d_layerOpaque[];
+extern Gfx gGiPanMaskNightDL[];
+
+#endif

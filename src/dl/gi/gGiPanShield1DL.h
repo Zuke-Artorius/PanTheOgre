@@ -1,0 +1,94 @@
+#ifndef GGIPANSHIELD1DL_H
+#define GGIPANSHIELD1DL_H
+
+#include "ultra64.h"
+#include "global.h"
+
+extern u64 gGiPanShield1DL_shield1_texture0_ci8[];
+extern u64 gGiPanShield1DL_shield1_texture0_pal_rgba16[];
+extern u64 gGiPanShield1DL_shield1_texture1_ci8[];
+extern u64 gGiPanShield1DL_shield1_texture1_pal_rgba16[];
+extern u64 gGiPanShield1DL_shield1_texture2_ci8[];
+extern u64 gGiPanShield1DL_shield1_texture2_pal_rgba16[];
+extern u64 gGiPanShield1DL_shield1_texture3_ci8[];
+extern u64 gGiPanShield1DL_shield1_texture3_pal_rgba16[];
+extern u64 gGiPanShield1DL_shield1_texture4_ci8[];
+extern u64 gGiPanShield1DL_shield1_texture4_pal_rgba16[];
+extern u64 gGiPanShield1DL_shield1_texture5_ci8[];
+extern u64 gGiPanShield1DL_shield1_texture5_pal_rgba16[];
+extern u64 gGiPanShield1DL_shield1_texture6_ci8[];
+extern u64 gGiPanShield1DL_shield1_texture6_pal_rgba16[];
+extern u64 gGiPanShield1DL_shield1_texture7_ci8[];
+extern u64 gGiPanShield1DL_shield1_texture7_pal_rgba16[];
+extern u64 gGiPanShield1DL_shield1_texture8_ci8[];
+extern u64 gGiPanShield1DL_shield1_texture8_pal_rgba16[];
+extern u64 gGiPanShield1DL_shield1_texture9_ci8[];
+extern u64 gGiPanShield1DL_shield1_texture9_pal_rgba16[];
+extern u64 gGiPanShield1DL_shield1_texture10_ci8[];
+extern u64 gGiPanShield1DL_shield1_texture10_pal_rgba16[];
+extern u64 gGiPanShield1DL_shield1_texture11_ci8[];
+extern u64 gGiPanShield1DL_shield1_texture11_pal_rgba16[];
+extern u64 gGiPanShield1DL_shield1_texture12_ci8[];
+extern u64 gGiPanShield1DL_shield1_texture12_pal_rgba16[];
+extern u64 gGiPanShield1DL_shield1_texture13_ci8[];
+extern u64 gGiPanShield1DL_shield1_texture13_pal_rgba16[];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_0[8];
+extern Gfx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_tri_0[];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_1[21];
+extern Gfx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_tri_1[];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_2[20];
+extern Gfx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_tri_2[];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_3[14];
+extern Gfx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_tri_3[];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_4[20];
+extern Gfx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_tri_4[];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_5[20];
+extern Gfx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_tri_5[];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_6[25];
+extern Gfx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_tri_6[];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_7[9];
+extern Gfx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_tri_7[];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_8[10];
+extern Gfx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_tri_8[];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_9[14];
+extern Gfx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_tri_9[];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_10[18];
+extern Gfx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_tri_10[];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_11[12];
+extern Gfx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_tri_11[];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_12[5];
+extern Gfx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_tri_12[];
+extern Vtx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_vtx_13[5];
+extern Gfx gGiPanShield1DL_gGiPanShield1DL_mesh_layer_Opaque_tri_13[];
+extern Gfx mat_gGiPanShield1DL_shield1_mat_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanShield1DL_shield1_mat_f3d_layerOpaque[];
+extern Gfx mat_gGiPanShield1DL_shield1_mat_001_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanShield1DL_shield1_mat_001_f3d_layerOpaque[];
+extern Gfx mat_gGiPanShield1DL_shield1_mat_002_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanShield1DL_shield1_mat_002_f3d_layerOpaque[];
+extern Gfx mat_gGiPanShield1DL_shield1_mat_003_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanShield1DL_shield1_mat_003_f3d_layerOpaque[];
+extern Gfx mat_gGiPanShield1DL_shield1_mat_004_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanShield1DL_shield1_mat_004_f3d_layerOpaque[];
+extern Gfx mat_gGiPanShield1DL_shield1_mat_005_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanShield1DL_shield1_mat_005_f3d_layerOpaque[];
+extern Gfx mat_gGiPanShield1DL_shield1_mat_006_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanShield1DL_shield1_mat_006_f3d_layerOpaque[];
+extern Gfx mat_gGiPanShield1DL_shield1_mat_007_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanShield1DL_shield1_mat_007_f3d_layerOpaque[];
+extern Gfx mat_gGiPanShield1DL_shield1_mat_008_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanShield1DL_shield1_mat_008_f3d_layerOpaque[];
+extern Gfx mat_gGiPanShield1DL_shield1_mat_009_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanShield1DL_shield1_mat_009_f3d_layerOpaque[];
+extern Gfx mat_gGiPanShield1DL_shield1_mat_010_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanShield1DL_shield1_mat_010_f3d_layerOpaque[];
+extern Gfx mat_gGiPanShield1DL_shield1_mat_011_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanShield1DL_shield1_mat_011_f3d_layerOpaque[];
+extern Gfx mat_gGiPanShield1DL_shield1_mat_012_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanShield1DL_shield1_mat_012_f3d_layerOpaque[];
+extern Gfx mat_gGiPanShield1DL_shield1_mat_013_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanShield1DL_shield1_mat_013_f3d_layerOpaque[];
+extern Gfx gGiPanShield1DL[];
+
+#endif

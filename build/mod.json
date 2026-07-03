@@ -1,0 +1,16 @@
+{
+    "authors" : [
+        "Pan, Zuke"
+    ],
+    "dependencies" : [
+        "yazmt_mm_playermodelmanager:0.6.1",
+        "yazmt_mm_modelreplacer"
+    ],
+    "description" : "Features: \n- Human, Zora, and Deku forms\n- Zora and Deku forms each include a unique effigy and shield\n- Deku Saxophone w/ altered animation\n- 2h grip animation adjustments\n- Equipment Pack \"Astoltian Weaponry\" (ocarina, bow, swords 'n boards)\n- All masks excluding Romani's, Circus Leader's, Kafei's, Couple's, and Giant's, have been changed\n\nFor use with Player Model Manager.\n",
+    "display_name" : "Pan",
+    "game_id" : "mm",
+    "id" : "mm_recomp_pan_human",
+    "minimum_recomp_version" : "1.2.2",
+    "short_description" : "& friends",
+    "version" : "0.3.0"
+}

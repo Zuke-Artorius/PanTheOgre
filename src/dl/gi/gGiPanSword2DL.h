@@ -1,0 +1,75 @@
+#ifndef GGIPANSWORD2DL_H
+#define GGIPANSWORD2DL_H
+
+#include "ultra64.h"
+#include "global.h"
+
+extern u64 gGiPanSword2DL_Razor_Sword_texture1_ci8[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture1_pal_rgba16[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture2_ci8[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture2_pal_rgba16[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture3_ci8[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture3_pal_rgba16[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture4_ci8[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture4_pal_rgba16[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture5_ci8[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture5_pal_rgba16[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture6_ci8[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture6_pal_rgba16[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture7_ci8[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture7_pal_rgba16[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture8_ci8[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture8_pal_rgba16[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture9_ci8[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture9_pal_rgba16[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture10_ci8[];
+extern u64 gGiPanSword2DL_Razor_Sword_texture10_pal_rgba16[];
+extern u64 gGiPanSword2DL_metal_dragonfruit_rgba32[];
+extern Vtx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_vtx_0[20];
+extern Gfx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_tri_0[];
+extern Vtx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_vtx_1[9];
+extern Gfx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_tri_1[];
+extern Vtx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_vtx_2[12];
+extern Gfx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_tri_2[];
+extern Vtx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_vtx_3[12];
+extern Gfx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_tri_3[];
+extern Vtx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_vtx_4[9];
+extern Gfx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_tri_4[];
+extern Vtx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_vtx_5[9];
+extern Gfx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_tri_5[];
+extern Vtx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_vtx_6[10];
+extern Gfx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_tri_6[];
+extern Vtx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_vtx_7[10];
+extern Gfx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_tri_7[];
+extern Vtx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_vtx_8[6];
+extern Gfx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_tri_8[];
+extern Vtx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_vtx_9[5];
+extern Gfx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_tri_9[];
+extern Vtx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_vtx_10[59];
+extern Gfx gGiPanSword2DL_gGiPanSword2DL_mesh_layer_Opaque_tri_10[];
+extern Gfx mat_gGiPanSword2DL_Razor_Sword_mat_001_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanSword2DL_Razor_Sword_mat_001_f3d_layerOpaque[];
+extern Gfx mat_gGiPanSword2DL_Razor_Sword_mat_002_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanSword2DL_Razor_Sword_mat_002_f3d_layerOpaque[];
+extern Gfx mat_gGiPanSword2DL_Razor_Sword_mat_003_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanSword2DL_Razor_Sword_mat_003_f3d_layerOpaque[];
+extern Gfx mat_gGiPanSword2DL_Razor_Sword_mat_004_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanSword2DL_Razor_Sword_mat_004_f3d_layerOpaque[];
+extern Gfx mat_gGiPanSword2DL_Razor_Sword_mat_005_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanSword2DL_Razor_Sword_mat_005_f3d_layerOpaque[];
+extern Gfx mat_gGiPanSword2DL_Razor_Sword_mat_006_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanSword2DL_Razor_Sword_mat_006_f3d_layerOpaque[];
+extern Gfx mat_gGiPanSword2DL_Razor_Sword_mat_007_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanSword2DL_Razor_Sword_mat_007_f3d_layerOpaque[];
+extern Gfx mat_gGiPanSword2DL_Razor_Sword_mat_008_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanSword2DL_Razor_Sword_mat_008_f3d_layerOpaque[];
+extern Gfx mat_gGiPanSword2DL_Razor_Sword_mat_009_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanSword2DL_Razor_Sword_mat_009_f3d_layerOpaque[];
+extern Gfx mat_gGiPanSword2DL_Razor_Sword_mat_010_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanSword2DL_Razor_Sword_mat_010_f3d_layerOpaque[];
+extern Gfx mat_gGiPanSword2DL_metal_dragonfruit_layerOpaque[];
+extern Gfx mat_revert_gGiPanSword2DL_metal_dragonfruit_layerOpaque[];
+extern Gfx gGiPanSword2DL[];
+
+#endif

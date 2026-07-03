@@ -1,0 +1,40 @@
+#ifndef GPANSHEATH2DL_H
+#define GPANSHEATH2DL_H
+
+#include "ultra64.h"
+#include "global.h"
+
+extern u64 gPanSheath2DL_Razor_Scabard_texture0_ci8[];
+extern u64 gPanSheath2DL_Razor_Scabard_texture0_pal_rgba16[];
+extern u64 gPanSheath2DL_Razor_Scabard_texture1_ci8[];
+extern u64 gPanSheath2DL_Razor_Scabard_texture1_pal_rgba16[];
+extern u64 gPanSheath2DL_Razor_Scabard_texture2_ci8[];
+extern u64 gPanSheath2DL_Razor_Scabard_texture2_pal_rgba16[];
+extern u64 gPanSheath2DL_Razor_Scabard_texture3_ci8[];
+extern u64 gPanSheath2DL_Razor_Scabard_texture3_pal_rgba16[];
+extern u64 gPanSheath2DL_Razor_Scabard_texture4_ci8[];
+extern u64 gPanSheath2DL_Razor_Scabard_texture4_pal_rgba16[];
+extern Vtx gPanSheath2DL_gPanSheath2DL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gPanSheath2DL_gPanSheath2DL_mesh_layer_Opaque_vtx_0[51];
+extern Gfx gPanSheath2DL_gPanSheath2DL_mesh_layer_Opaque_tri_0[];
+extern Vtx gPanSheath2DL_gPanSheath2DL_mesh_layer_Opaque_vtx_1[6];
+extern Gfx gPanSheath2DL_gPanSheath2DL_mesh_layer_Opaque_tri_1[];
+extern Vtx gPanSheath2DL_gPanSheath2DL_mesh_layer_Opaque_vtx_2[10];
+extern Gfx gPanSheath2DL_gPanSheath2DL_mesh_layer_Opaque_tri_2[];
+extern Vtx gPanSheath2DL_gPanSheath2DL_mesh_layer_Opaque_vtx_3[10];
+extern Gfx gPanSheath2DL_gPanSheath2DL_mesh_layer_Opaque_tri_3[];
+extern Vtx gPanSheath2DL_gPanSheath2DL_mesh_layer_Opaque_vtx_4[12];
+extern Gfx gPanSheath2DL_gPanSheath2DL_mesh_layer_Opaque_tri_4[];
+extern Gfx mat_gPanSheath2DL_Razor_Scabard_mat_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSheath2DL_Razor_Scabard_mat_f3d_layerOpaque[];
+extern Gfx mat_gPanSheath2DL_Razor_Scabard_mat_001_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSheath2DL_Razor_Scabard_mat_001_f3d_layerOpaque[];
+extern Gfx mat_gPanSheath2DL_Razor_Scabard_mat_002_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSheath2DL_Razor_Scabard_mat_002_f3d_layerOpaque[];
+extern Gfx mat_gPanSheath2DL_Razor_Scabard_mat_003_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSheath2DL_Razor_Scabard_mat_003_f3d_layerOpaque[];
+extern Gfx mat_gPanSheath2DL_Razor_Scabard_mat_004_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSheath2DL_Razor_Scabard_mat_004_f3d_layerOpaque[];
+extern Gfx gPanSheath2DL[];
+
+#endif

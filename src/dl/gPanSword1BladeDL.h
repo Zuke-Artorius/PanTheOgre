@@ -1,0 +1,45 @@
+#ifndef GPANSWORD1BLADEDL_H
+#define GPANSWORD1BLADEDL_H
+
+#include "ultra64.h"
+#include "global.h"
+
+extern u64 gPanSword1BladeDL_Blade_1_texture0_ci8[];
+extern u64 gPanSword1BladeDL_Blade_1_texture0_pal_rgba16[];
+extern u64 gPanSword1BladeDL_Blade_1_texture1_ci8[];
+extern u64 gPanSword1BladeDL_Blade_1_texture1_pal_rgba16[];
+extern u64 gPanSword1BladeDL_Blade_1_texture2_ci8[];
+extern u64 gPanSword1BladeDL_Blade_1_texture2_pal_rgba16[];
+extern u64 gPanSword1BladeDL_Blade_1_texture3_ci8[];
+extern u64 gPanSword1BladeDL_Blade_1_texture3_pal_rgba16[];
+extern u64 gPanSword1BladeDL_Blade_1_texture4_ci8[];
+extern u64 gPanSword1BladeDL_Blade_1_texture4_pal_rgba16[];
+extern u64 gPanSword1BladeDL_white_silver_rgba32[];
+extern Vtx gPanSword1BladeDL_gPanSword1BladeDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gPanSword1BladeDL_gPanSword1BladeDL_mesh_layer_Opaque_vtx_0[18];
+extern Gfx gPanSword1BladeDL_gPanSword1BladeDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gPanSword1BladeDL_gPanSword1BladeDL_mesh_layer_Opaque_vtx_1[13];
+extern Gfx gPanSword1BladeDL_gPanSword1BladeDL_mesh_layer_Opaque_tri_1[];
+extern Vtx gPanSword1BladeDL_gPanSword1BladeDL_mesh_layer_Opaque_vtx_2[19];
+extern Gfx gPanSword1BladeDL_gPanSword1BladeDL_mesh_layer_Opaque_tri_2[];
+extern Vtx gPanSword1BladeDL_gPanSword1BladeDL_mesh_layer_Opaque_vtx_3[14];
+extern Gfx gPanSword1BladeDL_gPanSword1BladeDL_mesh_layer_Opaque_tri_3[];
+extern Vtx gPanSword1BladeDL_gPanSword1BladeDL_mesh_layer_Opaque_vtx_4[14];
+extern Gfx gPanSword1BladeDL_gPanSword1BladeDL_mesh_layer_Opaque_tri_4[];
+extern Vtx gPanSword1BladeDL_gPanSword1BladeDL_mesh_layer_Opaque_vtx_5[58];
+extern Gfx gPanSword1BladeDL_gPanSword1BladeDL_mesh_layer_Opaque_tri_5[];
+extern Gfx mat_gPanSword1BladeDL_Blade_1_mat_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSword1BladeDL_Blade_1_mat_f3d_layerOpaque[];
+extern Gfx mat_gPanSword1BladeDL_Blade_1_mat_001_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSword1BladeDL_Blade_1_mat_001_f3d_layerOpaque[];
+extern Gfx mat_gPanSword1BladeDL_Blade_1_mat_002_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSword1BladeDL_Blade_1_mat_002_f3d_layerOpaque[];
+extern Gfx mat_gPanSword1BladeDL_Blade_1_mat_003_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSword1BladeDL_Blade_1_mat_003_f3d_layerOpaque[];
+extern Gfx mat_gPanSword1BladeDL_Blade_1_mat_004_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanSword1BladeDL_Blade_1_mat_004_f3d_layerOpaque[];
+extern Gfx mat_gPanSword1BladeDL_metal_silver_layerOpaque[];
+extern Gfx mat_revert_gPanSword1BladeDL_metal_silver_layerOpaque[];
+extern Gfx gPanSword1BladeDL[];
+
+#endif

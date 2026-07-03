@@ -1,0 +1,82 @@
+#ifndef GGIPANMASKCOWBATDL_H
+#define GGIPANMASKCOWBATDL_H
+
+#include "ultra64.h"
+#include "global.h"
+
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture0_ci8[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture0_pal_rgba16[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture1_ci8[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture1_pal_rgba16[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture2_ci8[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture2_pal_rgba16[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture3_ci8[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture3_pal_rgba16[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture4_ci8[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture4_pal_rgba16[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture5_ci8[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture5_pal_rgba16[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture6_ci8[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture6_pal_rgba16[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture7_ci8[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture7_pal_rgba16[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture8_ci8[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture8_pal_rgba16[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture9_ci8[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture9_pal_rgba16[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture10_ci8[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture10_pal_rgba16[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture11_ci8[];
+extern u64 gGiPanMaskCowBatDL_MaskofTruth_texture11_pal_rgba16[];
+extern Vtx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_vtx_0[24];
+extern Gfx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_vtx_1[16];
+extern Gfx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_tri_1[];
+extern Vtx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_vtx_2[9];
+extern Gfx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_tri_2[];
+extern Vtx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_vtx_3[7];
+extern Gfx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_tri_3[];
+extern Vtx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_vtx_4[12];
+extern Gfx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_tri_4[];
+extern Vtx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_vtx_5[4];
+extern Gfx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_tri_5[];
+extern Vtx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_vtx_6[4];
+extern Gfx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_tri_6[];
+extern Vtx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_vtx_7[12];
+extern Gfx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_tri_7[];
+extern Vtx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_vtx_8[9];
+extern Gfx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_tri_8[];
+extern Vtx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_vtx_9[8];
+extern Gfx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_tri_9[];
+extern Vtx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_vtx_10[7];
+extern Gfx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_tri_10[];
+extern Vtx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_vtx_11[7];
+extern Gfx gGiPanMaskCowBatDL_gGiPanMaskCowBatDL_mesh_layer_Opaque_tri_11[];
+extern Gfx mat_gGiPanMaskCowBatDL_MaskofTruth_mat_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskCowBatDL_MaskofTruth_mat_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskCowBatDL_MaskofTruth_mat_001_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskCowBatDL_MaskofTruth_mat_001_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskCowBatDL_MaskofTruth_mat_002_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskCowBatDL_MaskofTruth_mat_002_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskCowBatDL_MaskofTruth_mat_003_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskCowBatDL_MaskofTruth_mat_003_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskCowBatDL_MaskofTruth_mat_004_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskCowBatDL_MaskofTruth_mat_004_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskCowBatDL_MaskofTruth_mat_005_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskCowBatDL_MaskofTruth_mat_005_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskCowBatDL_MaskofTruth_mat_006_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskCowBatDL_MaskofTruth_mat_006_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskCowBatDL_MaskofTruth_mat_007_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskCowBatDL_MaskofTruth_mat_007_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskCowBatDL_MaskofTruth_mat_008_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskCowBatDL_MaskofTruth_mat_008_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskCowBatDL_MaskofTruth_mat_009_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskCowBatDL_MaskofTruth_mat_009_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskCowBatDL_MaskofTruth_mat_010_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskCowBatDL_MaskofTruth_mat_010_f3d_layerOpaque[];
+extern Gfx mat_gGiPanMaskCowBatDL_MaskofTruth_mat_011_f3d_layerOpaque[];
+extern Gfx mat_revert_gGiPanMaskCowBatDL_MaskofTruth_mat_011_f3d_layerOpaque[];
+extern Gfx gGiPanMaskCowBatDL[];
+
+#endif

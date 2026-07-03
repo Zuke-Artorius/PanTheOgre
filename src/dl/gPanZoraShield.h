@@ -1,0 +1,92 @@
+#ifndef GPANZORASHIELD_H
+#define GPANZORASHIELD_H
+
+#include "ultra64.h"
+#include "global.h"
+
+extern u64 gPanZoraShield_gPanZoraShield_texture0_ci8[];
+extern u64 gPanZoraShield_gPanZoraShield_texture0_pal_rgba16[];
+extern u64 gPanZoraShield_gPanZoraShield_texture1_ci8[];
+extern u64 gPanZoraShield_gPanZoraShield_texture1_pal_rgba16[];
+extern u64 gPanZoraShield_gPanZoraShield_texture2_ci8[];
+extern u64 gPanZoraShield_gPanZoraShield_texture2_pal_rgba16[];
+extern u64 gPanZoraShield_gPanZoraShield_texture3_ci8[];
+extern u64 gPanZoraShield_gPanZoraShield_texture3_pal_rgba16[];
+extern u64 gPanZoraShield_gPanZoraShield_texture4_ia8[];
+extern u64 gPanZoraShield_gPanZoraShield_texture5_ci8[];
+extern u64 gPanZoraShield_gPanZoraShield_texture5_pal_rgba16[];
+extern u64 gPanZoraShield_gPanZoraShield_texture6_ia8[];
+extern u64 gPanZoraShield_gPanZoraShield_001_texture0_ci8[];
+extern u64 gPanZoraShield_gPanZoraShield_001_texture0_pal_rgba16[];
+extern u64 gPanZoraShield_gPanZoraShield_001_texture1_ci8[];
+extern u64 gPanZoraShield_gPanZoraShield_001_texture1_pal_rgba16[];
+extern u64 gPanZoraShield_gPanZoraShield_001_texture2_ci8[];
+extern u64 gPanZoraShield_gPanZoraShield_001_texture2_pal_rgba16[];
+extern u64 gPanZoraShield_gPanZoraShield_001_texture3_ci8[];
+extern u64 gPanZoraShield_gPanZoraShield_001_texture3_pal_rgba16[];
+extern u64 gPanZoraShield_gPanZoraShield_001_texture4_ci8[];
+extern u64 gPanZoraShield_gPanZoraShield_001_texture4_pal_rgba16[];
+extern u64 gPanZoraShield_gPanZoraShield_001_texture5_ci8[];
+extern u64 gPanZoraShield_gPanZoraShield_001_texture5_pal_rgba16[];
+extern u64 gPanZoraShield_gPanZoraShield_001_texture6_ci8[];
+extern u64 gPanZoraShield_gPanZoraShield_001_texture6_pal_rgba16[];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_0[27];
+extern Gfx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_tri_0[];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_1[21];
+extern Gfx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_tri_1[];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_2[14];
+extern Gfx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_tri_2[];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_3[17];
+extern Gfx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_tri_3[];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_4[6];
+extern Gfx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_tri_4[];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_5[16];
+extern Gfx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_tri_5[];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_6[8];
+extern Gfx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_tri_6[];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_7[4];
+extern Gfx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_tri_7[];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_8[23];
+extern Gfx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_tri_8[];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_9[9];
+extern Gfx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_tri_9[];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_10[4];
+extern Gfx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_tri_10[];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_11[11];
+extern Gfx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_tri_11[];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_12[4];
+extern Gfx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_tri_12[];
+extern Vtx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_vtx_13[4];
+extern Gfx gPanZoraShield_gPanZoraShield_mesh_layer_Opaque_tri_13[];
+extern Gfx mat_gPanZoraShield_gPanZoraShield_mat_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanZoraShield_gPanZoraShield_mat_f3d_layerOpaque[];
+extern Gfx mat_gPanZoraShield_gPanZoraShield_mat_001_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanZoraShield_gPanZoraShield_mat_001_f3d_layerOpaque[];
+extern Gfx mat_gPanZoraShield_gPanZoraShield_mat_002_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanZoraShield_gPanZoraShield_mat_002_f3d_layerOpaque[];
+extern Gfx mat_gPanZoraShield_gPanZoraShield_mat_003_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanZoraShield_gPanZoraShield_mat_003_f3d_layerOpaque[];
+extern Gfx mat_gPanZoraShield_gPanZoraShield_mat_004_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanZoraShield_gPanZoraShield_mat_004_f3d_layerOpaque[];
+extern Gfx mat_gPanZoraShield_gPanZoraShield_mat_005_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanZoraShield_gPanZoraShield_mat_005_f3d_layerOpaque[];
+extern Gfx mat_gPanZoraShield_gPanZoraShield_mat_006_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanZoraShield_gPanZoraShield_mat_006_f3d_layerOpaque[];
+extern Gfx mat_gPanZoraShield_gPanZoraShield_001_mat_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanZoraShield_gPanZoraShield_001_mat_f3d_layerOpaque[];
+extern Gfx mat_gPanZoraShield_gPanZoraShield_001_mat_001_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanZoraShield_gPanZoraShield_001_mat_001_f3d_layerOpaque[];
+extern Gfx mat_gPanZoraShield_gPanZoraShield_001_mat_002_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanZoraShield_gPanZoraShield_001_mat_002_f3d_layerOpaque[];
+extern Gfx mat_gPanZoraShield_gPanZoraShield_001_mat_003_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanZoraShield_gPanZoraShield_001_mat_003_f3d_layerOpaque[];
+extern Gfx mat_gPanZoraShield_gPanZoraShield_001_mat_004_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanZoraShield_gPanZoraShield_001_mat_004_f3d_layerOpaque[];
+extern Gfx mat_gPanZoraShield_gPanZoraShield_001_mat_005_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanZoraShield_gPanZoraShield_001_mat_005_f3d_layerOpaque[];
+extern Gfx mat_gPanZoraShield_gPanZoraShield_001_mat_006_f3d_layerOpaque[];
+extern Gfx mat_revert_gPanZoraShield_gPanZoraShield_001_mat_006_f3d_layerOpaque[];
+extern Gfx gPanZoraShield[];
+
+#endif
